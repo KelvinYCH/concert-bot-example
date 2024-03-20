@@ -11,8 +11,5 @@
     "url": "https://github.com/KelvinYCH/concert-bot-example"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "concert-bot": "^1.0.0"
-  }
+  "license": "ISC"
 }
